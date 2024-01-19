@@ -1,0 +1,1096 @@
+{
+    "layouts": [
+        {
+            "id": 1,
+            "name": "Unique Layout 1",
+            "tempo": 120,
+            "instruments": [
+                {
+                    "name": "Instrument A",
+                    "pattern": [
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument B",
+                    "pattern": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument C",
+                    "pattern": [
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument D",
+                    "pattern": [
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        false,
+                        false
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Unique Layout 2",
+            "tempo": 93,
+            "instruments": [
+                {
+                    "name": "Instrument A",
+                    "pattern": [
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument B",
+                    "pattern": [
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument C",
+                    "pattern": [
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument D",
+                    "pattern": [
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Unique Layout 3",
+            "tempo": 100,
+            "instruments": [
+                {
+                    "name": "Instrument A",
+                    "pattern": [
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument B",
+                    "pattern": [
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument C",
+                    "pattern": [
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument D",
+                    "pattern": [
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Unique Layout 4",
+            "tempo": 109,
+            "instruments": [
+                {
+                    "name": "Instrument A",
+                    "pattern": [
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument B",
+                    "pattern": [
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument C",
+                    "pattern": [
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument D",
+                    "pattern": [
+                        true,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Unique Layout 5",
+            "tempo": 138,
+            "instruments": [
+                {
+                    "name": "Instrument A",
+                    "pattern": [
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument B",
+                    "pattern": [
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument C",
+                    "pattern": [
+                        true,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument D",
+                    "pattern": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Unique Layout 6",
+            "tempo": 90,
+            "instruments": [
+                {
+                    "name": "Instrument A",
+                    "pattern": [
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument B",
+                    "pattern": [
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument C",
+                    "pattern": [
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument D",
+                    "pattern": [
+                        true,
+                        false,
+                        true,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Unique Layout 7",
+            "tempo": 126,
+            "instruments": [
+                {
+                    "name": "Instrument A",
+                    "pattern": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        true,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument B",
+                    "pattern": [
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument C",
+                    "pattern": [
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument D",
+                    "pattern": [
+                        true,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Unique Layout 8",
+            "tempo": 80,
+            "instruments": [
+                {
+                    "name": "Instrument A",
+                    "pattern": [
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument B",
+                    "pattern": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument C",
+                    "pattern": [
+                        true,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument D",
+                    "pattern": [
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Unique Layout 9",
+            "tempo": 77,
+            "instruments": [
+                {
+                    "name": "Instrument A",
+                    "pattern": [
+                        true,
+                        false,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument B",
+                    "pattern": [
+                        true,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument C",
+                    "pattern": [
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument D",
+                    "pattern": [
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Unique Layout 10",
+            "tempo": 86,
+            "instruments": [
+                {
+                    "name": "Instrument A",
+                    "pattern": [
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument B",
+                    "pattern": [
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        true,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument C",
+                    "pattern": [
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument D",
+                    "pattern": [
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Unique Layout 11",
+            "tempo": 125,
+            "instruments": [
+                {
+                    "name": "Instrument A",
+                    "pattern": [
+                        false,
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        true,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument B",
+                    "pattern": [
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument C",
+                    "pattern": [
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument D",
+                    "pattern": [
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        true,
+                        false,
+                        false
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Unique Layout 12",
+            "tempo": 75,
+            "instruments": [
+                {
+                    "name": "Instrument A",
+                    "pattern": [
+                        false,
+                        true,
+                        true,
+                        true,
+                        false,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true
+                    ]
+                },
+                {
+                    "name": "Instrument B",
+                    "pattern": [
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        true,
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument C",
+                    "pattern": [
+                        true,
+                        true,
+                        false,
+                        true,
+                        true,
+                        false,
+                        true,
+                        true,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "Instrument D",
+                    "pattern": [
+                        true,
+                        true,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false
+                    ]
+                }
+            ]
+        }
+    ]
+}
