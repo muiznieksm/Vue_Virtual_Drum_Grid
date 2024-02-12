@@ -5,6 +5,9 @@
 
 This project is a Vue.js web application designed to showcase various musical instruments. It features a dynamic interface for users to explore different types of instruments, leveraging Vue 3 for the frontend and `json-server` for a mock backend.
 
+## Preview
+<img src="Preview.png" alt="Preview GIF" style="max-width: 100%; height: auto; border: 2px solid #333;">
+
 ## Technologies Used
 
 - **Vue.js 3**: For building the interactive user interface. [Vue.js Documentation](https://v3.vuejs.org/)
